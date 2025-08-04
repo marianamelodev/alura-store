@@ -23,18 +23,18 @@ Analisar os dados de quatro lojas fictícias da rede Alura Store para:
 - Git/GitHub
 
 🗂️ Estrutura do Projeto
-alura-store/
-├── dados/
-│ ├── loja1.csv
-│ ├── loja2.csv
-│ ├── loja3.csv
-│ └── loja4.csv
-├── imagens/
-│ ├── grafico_faturamento.png
-│ ├── grafico_categorias_loja1.png
-│ └── grafico_avaliacao_vs_frete.png
-├── alura_store.ipynb
-└── README.md
+alura-store
+dados
+loja1.csv
+loja2.csv
+loja3.csv
+loja4.csv
+imagens
+grafico_faturamento.png
+grafico_categorias_loja1.png
+grafico_avaliacao_vs_frete.png
+alura_store.ipynb
+README.md
 
 📈 Gráficos gerados
 
