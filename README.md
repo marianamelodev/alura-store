@@ -46,4 +46,4 @@ Analisar os dados de quatro lojas fictícias da rede Alura Store para:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/alura-store.git
+   git clone https://github.com/marianamelodev/alura-store.git
